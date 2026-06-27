@@ -7,85 +7,28 @@
 
  software engineer
 ```
-
-`full-stack` • `5+ years` • `framework-agnostic` • `building from the infrastructure up`
-
----
-
 ```console
 $ whoami
-shibly mohammad noman — software engineer, building from the infrastructure up.
+shibly mohammad noman — software engineer · full-stack · 5+ years · dhaka, bd
 
 $ cat ./about.txt
-I turn messy, high-scale problems into systems that stay fast and
-maintainable. Real-time AdTech dashboards over huge datasets, cookieless
-GDPR/CCPA tracking pipelines, and LLM tools powered by RAG and NLQ.
-Happiest where backend, data, and frontend all have to agree.
+I build complex systems from the infrastructure up: real-time AdTech
+dashboards over huge datasets, cookieless GDPR/CCPA tracking pipelines,
+and LLM tools powered by RAG & NLQ. Framework-agnostic, performance-first.
 
-$ uptime
-career active since 2020 · load average: high, sustained, no regrets
-```
+$ ls ~/stack
+languages  C++  Python  Go  TypeScript
+backend    Node.js  Nest.js  Django  Gin
+data       PostgreSQL  MongoDB  Redis  Elasticsearch  Kafka  RabbitMQ
+ai         LangChain  LangGraph
+frontend   React  Next.js  Angular  Vue  React-Native  Vite
+infra      Docker  Kubernetes  GCP  Firebase  GitHub-Actions
 
----
-
-```console
-$ ls -la ~/skills
-
-drwxr-xr-x  languages   C++  Python  Go  JavaScript  TypeScript
-drwxr-xr-x  backend     Node.js  Nest.js  Django  Gin
-drwxr-xr-x  data        PostgreSQL  MongoDB  Redis  Elasticsearch  Prisma  TypeORM
-drwxr-xr-x  queues      RabbitMQ  Kafka
-drwxr-xr-x  ai_llm      LangChain  LangGraph
-drwxr-xr-x  frontend    React  Next.js  React-Native  Angular  Vue  Nuxt  Vite
-drwxr-xr-x  infra       Docker  Kubernetes  GCP  Firebase
-drwxr-xr-x  ci_cd       Git  GitHub-Actions  GitLab-CI
-drwxr-xr-x  ui_viz      Tailwind  Shadcn/UI  Storybook  Framer-Motion  D3.js
-```
-
----
-
-```console
-$ git log --oneline --graph ~/career
-
-* 2026  ontik technology — consultant @ akij venture group
-|        vertical & micro-saas · RAG & NLQ solutions
-* 2022  vivasoft limited — software engineer L-II
-|        high-scale adtech dashboards · real-time pipelines · custom vite framework
-* 2021  gakk media limited — software engineer
-|        media/quiz/gaming portals · SSR & SEO · anti-piracy media player
-* 2020  intense limited — frontend developer
-         responsive e-commerce & travel web apps
-```
-
----
-
-```console
-$ find ~/projects -type d -maxdepth 1
-
-./shadhin-music      react · next.js · redux
-    streaming platform for songs, videos & podcasts; high-perf playback,
-    recommendation engine, event tracking, SEO.
-
-./vivakit            react · tailwind · storybook
-    reusable, accessible, responsive react component library with a
-    consistent modern design system.
-
-./tracking-pixels    nest.js · go · graphql · next.js · shadcn/ui
-    cookieless, GDPR/CCPA-compliant event tracking & attribution via
-    anonymous session modeling and first-party data.
-```
-
----
-
-```console
-$ ./connect --with shibly
-
-  [→] linkedin   linkedin.com/in/shibly-mohammad
-  [→] github     github.com/Shibly-Noman
-  [→] email      shibly.work@gmail.com
-
-$ exit
-building from the infrastructure up, one system at a time. ⚡
+$ git log --oneline ~/career
+2026  ontik technology (consultant @ akij venture) — micro-saas · RAG/NLQ
+2022  vivasoft limited — software engineer L-II — adtech dashboards & pipelines
+2021  gakk media — software engineer — media portals · SSR/SEO · anti-piracy
+2020  intense limited — frontend developer — e-commerce & travel apps
 ```
 
 <p align="center">
